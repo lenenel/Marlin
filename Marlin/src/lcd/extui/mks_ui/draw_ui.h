@@ -108,8 +108,8 @@
 
 #ifdef TFT35
 
-  #define TFT_WIDTH         480
-  #define TFT_HEIGHT        320
+  #define TFT_WIDTH         320
+  #define TFT_HEIGHT        480
 
   #define titleHeight        36   // TFT_screen.title_high
   #define INTERVAL_H          2   // TFT_screen.gap_h // 2
@@ -124,7 +124,7 @@
   #define TITLE_XPOS          3    // TFT_screen.title_xpos
   #define TITLE_YPOS          5    // TFT_screen.title_ypos
 
-  #define FILE_BTN_CNT        6
+  #define FILE_BTN_CNT        4
 
   #define OTHER_BTN_XPIEL   117
   #define OTHER_BTN_YPIEL    92
